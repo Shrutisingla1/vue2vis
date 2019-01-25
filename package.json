@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexcode/vue2vis.git"
+    "url": "git://github.com/Shrutisingla1/vue2vis.git"
   },
   "files": [
     "dist/",
     "src/"
   ],
-  "author": "Alex Couturon <infocontact.alex@gmail.com>",
+  "author": "Shruti Singla <shruti@sharecreators.com>",
   "license": "MIT",
   "keywords": [
     "vue",
