@@ -102,8 +102,8 @@ export default {
     getWindow() {
       return this.timeline.getWindow();
     },
-    moveTo(time, options) {
-      this.timeline.moveTo(time, options);
+    moveTo(time, options, callback) {
+      this.timeline.moveTo(time, options, callback);
     },
     on(event, callback) {
       this.timeline.on(event, callback);
