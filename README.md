@@ -26,7 +26,7 @@
 
 ### Installation
 ```
-npm install --save vue2vis
+npm install --save sc-vue2vis
 ```
 
 or
